@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails go-marriage: development" uuid="55774f0d-b580-4101-8fc8-d9ffa2f907f6">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails go-marriage: test" uuid="3a8bb9bb-8404-473a-8796-0daa7575fc4d">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails go-marriage: production" uuid="2b8dde8e-9095-4faf-9e5b-1c7819122b42">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
